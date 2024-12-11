@@ -2,6 +2,18 @@
 
 [microCMS](https://microcms.io/) sdk for Python.
 
+## Install
+
+現在は PyPI に登録していないため、以下のコマンドでインストールしてください。
+
+```bash
+# pip を利用している場合
+pip install git+https://github.com/zztkm/microcms-python-sdk.git
+
+# uv を利用している場合
+uv add https://github.com/zztkm/microcms-python-sdk.git
+```
+
 ## APIs
 
 Content API
